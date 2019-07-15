@@ -1,0 +1,22 @@
+html {
+	font-family: Impact;
+}
+
+body {
+	background-color: lightyellow;
+	background-image: linear-gradient(to bottom right, yellow, lightyellow)
+}
+
+.jumbotron {
+	background-image: linear-gradient(to bottom right, yellow, lightyellow);
+	color: white;
+}
+
+.jumbotron > .jumbotron {
+	background-image: linear-gradient(to bottom right, red, orange);
+	color: white;
+}
+
+#results {
+	background-image: linear-gradient(to bottom right, yellow, lightyellow);
+}
