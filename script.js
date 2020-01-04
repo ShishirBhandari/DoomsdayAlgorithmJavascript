@@ -5,7 +5,7 @@ let monthArr = ['January', 'February', 'March', 'April', 'May', 'June',
 
 let dayArr = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday']
 
-let doomsdayArrLeapYear = [4, 1, 7, 4, 2, 6, 4, 1, 5, 3, 7, 5];
+let doomsdayArrayLeapYear = [4, 1, 7, 4, 2, 6, 4, 1, 5, 3, 7, 5];
 let doomsdayArrayNotLeapYear = [3, 7, 7, 4, 2, 6, 4, 1, 5, 3, 7, 5];
 
 
